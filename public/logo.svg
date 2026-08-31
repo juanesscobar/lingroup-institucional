@@ -1,0 +1,28 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 200 60"
+  fill="none"
+>
+  <rect width="60" height="60" rx="12" fill="#12372A" />
+  <text
+    x="30"
+    y="42"
+    font-family="Arial, sans-serif"
+    font-size="36"
+    font-weight="bold"
+    fill="#C9A961"
+    text-anchor="middle"
+  >
+    L
+  </text>
+  <text
+    x="75"
+    y="40"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="600"
+    fill="#12372A"
+  >
+    LIN GROUP
+  </text>
+</svg>
